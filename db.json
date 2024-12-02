@@ -1,9 +1,8 @@
 
 	{
 		"profile":[
-                     "name":["Jessica Taylor"],
-		     "gender": ["Female"],
-			
+                     "name":{"Jessica Taylor"},
+		     "gender":{"Female"},
 		],
 		"profile_picture": "https://fedskillstest.ct.digital/4.png",
 		"date_of_birth": "1996-08-23",
