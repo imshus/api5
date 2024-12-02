@@ -1,7 +1,10 @@
 
 	{
-		"name": ["Jessica Taylor"],
-		"gender": ["Female"],
+		"profile":[
+                     "name":["Jessica Taylor"],
+		     "gender": ["Female"],
+			
+		],
 		"profile_picture": "https://fedskillstest.ct.digital/4.png",
 		"date_of_birth": "1996-08-23",
 		"emergency_contact": "(415) 555-5678",
